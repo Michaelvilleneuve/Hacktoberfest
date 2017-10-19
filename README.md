@@ -1,2 +1,2 @@
 # Hacktoberfest
-Hacktoberfest repo
+**Hacktoberfest** repo
