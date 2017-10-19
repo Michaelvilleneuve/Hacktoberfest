@@ -1,6 +1,3 @@
 # Hacktoberfest
 Hacktoberfest repo
-
-
-
 LLOLOLLL
